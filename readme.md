@@ -6,7 +6,7 @@ Conceitos de html e css grid.
 
 ### Visualizar 
 
-Acessar [recipe-page](https://leodolago.github.io/tech-news/)
+Acessar [tech-news](https://leodolago.github.io/tech-news/)
 
 ### Layout
 
